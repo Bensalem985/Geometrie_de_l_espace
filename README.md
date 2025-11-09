@@ -45,7 +45,3 @@ Après la compilation, exécutez le programme de démonstration :
 ```
 
 Le programme affichera les tests unitaires pour la création de points/vecteurs et les opérations géométriques (translation, rotation, addition, produit scalaire, etc.).
-
------
-
-Aimeriez-vous que je crée un petit exemple de code pour montrer comment utiliser une fonction spécifique, comme la translation d'un point ?
